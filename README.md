@@ -2,3 +2,8 @@
 Jalen Mendonca, This is the Version control for the final test.
 
 Jalen Mendonca: here are the instructions for the final test repository. 
+
+<ISSUES>
+This index.html is used for html code for the web app.
+
+This README.md is used the readme for the web app
